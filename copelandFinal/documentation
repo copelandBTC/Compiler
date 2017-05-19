@@ -1,0 +1,9 @@
+**This program was written using the following: **
+
+OS: Linux
+C compiler: gcc
+Parser: YACC
+lex. analyzer: lex
+final output: vsl.o
+
+Included is a make file; simply run 'make' to produce expected output. For more details, look in the make file for flags used, etc
